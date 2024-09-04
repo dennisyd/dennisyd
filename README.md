@@ -23,11 +23,10 @@
 </p>
 <h2 align="center">Personal Details</h2>
 <p align="center">
-	1. Learning programming languages: HTML, CSS, JavaScript, C,C++, Python,
-	Bash/Shell,Angular<br>
-	2. Hobby: Reading books, Listen music, Play games.<br> 3. Loves to: Create Fake Scenarios inside head and of course something new techy, <br> 4. Collections of : 
-	ISO, MP3, EXE, JPEG, PDF.<br>
-	6.Bit of photographer<br> 
+	1. Frontend: React, Vue2, Vue3, Angular, Angular.js, Vannila Js<br>
+	2. Backend: Python, Java, Django, C#, Flask, Nodejs, Express, TypeScript, Next, Nuxt, Nest, PHP, Laravel, CI<br> 3. Mobile: Swift, Dart, React Native, Android <br> 4. DevOps : 
+	AWS, Azure, GCP.<br>
+
 
 </p>
 <h2 align="center">My Github Stats</h2>
