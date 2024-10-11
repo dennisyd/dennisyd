@@ -32,15 +32,15 @@
 <p align="center">
 	<img
 		align="center"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham4abc&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisyd&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"
 	/>
 	<img
 		align="center"
-		src="https://github-readme-stats.vercel.app/api?username=soham4abc&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"
+		src="https://github-readme-stats.vercel.app/api?username=dennisyd&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"
 	/>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham4abc&theme=dracula">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennisyd&theme=dracula">
 	<img
 		align="center"
-		src="https://github-profile-trophy.vercel.app/?username=soham4abc&theme=onedark"
+		src="https://github-profile-trophy.vercel.app/?username=dennisyd&theme=onedark"
 	/>
 </p>
