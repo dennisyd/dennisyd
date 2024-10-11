@@ -10,7 +10,6 @@
 	/></a>
 </p>
 
-<h3 align="center">PHD, Sr, FullStack Engineer</h3>
 <p align="center">
 	<img
 		align="center"
