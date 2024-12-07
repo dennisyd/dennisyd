@@ -21,26 +21,3 @@
 	/>
 </p>
 <h2 align="center">Personal Details</h2>
-<p align="center">
-	1. Frontend: React, Vue2, Vue3, Angular, Angular.js, Vannila Js<br>
-	2. Backend: Python, Java, Django, C#, Flask, Nodejs, Express, TypeScript, Next, Nuxt, Nest, PHP, Laravel, CI<br> 3. Mobile: Swift, Dart, React Native, Android <br> 4. DevOps : 
-	AWS, Azure, GCP.<br>
-
-
-</p>
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-	<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisyd&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"
-	/>
-	<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api?username=dennisyd&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"
-	/>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennisyd&theme=dracula">
-	<img
-		align="center"
-		src="https://github-profile-trophy.vercel.app/?username=dennisyd&theme=onedark"
-	/>
-</p>
